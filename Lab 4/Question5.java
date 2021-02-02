@@ -14,5 +14,7 @@ public class Question5 {
         name = first+" "+last;
 
         System.out.println("Your Name: "+ name);
+
+        sc.close();
     }
 }
