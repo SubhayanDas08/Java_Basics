@@ -39,5 +39,7 @@ class Q6 {
 
         System.out.println("Left Diagonal Sum: "+ sum1);
         System.out.println("Right Diagonal Sum: "+ sum2);
+
+        sc.close();
     }
 }
