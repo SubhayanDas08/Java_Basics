@@ -14,6 +14,13 @@ class Q6 {
             
         }
 
+        for (var i = 0; i < 3; i++) {
+            for (var j = 0; j < 3; j++) {
+            System.out.print(array[i][j]+" ");
+            }
+        System.out.println(" ");
+        }
+
         int sum1=0;
         int sum2=0;
 
