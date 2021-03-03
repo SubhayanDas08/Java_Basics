@@ -1,4 +1,4 @@
-import marketing.sales;
+import Lab7.marketing.sales;
 
 public class total_earnings {
     public static void main(String[] args) {
